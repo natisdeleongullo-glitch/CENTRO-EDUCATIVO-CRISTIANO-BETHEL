@@ -1,0 +1,8 @@
+{
+  "name": "CEC Bethel - Plataforma Escolar",
+  "description": "Plataforma de gestión integral para el Centro Educativo Cristiano Bethel - Albania, La Guajira.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
